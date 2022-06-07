@@ -1,6 +1,6 @@
 # Джалалов Исамутдин
 
-df# Контактная информация
+# Контактная информация
   - E-mail: isamutdin92@gmail.com
   - GitHub: IsamutdinN
   - Telegram: @Isamutdinn
